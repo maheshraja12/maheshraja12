@@ -1,18 +1,63 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=maheshraja12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=maheshraja12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maheshraja12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hi, I'm Mahesh Raja 👋
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maheshraja12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Computer Science Engineering Graduate · Software Development · AI Engineering**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maheshraja12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build practical software projects across Python, backend APIs, AI-assisted workflows, and data processing. I enjoy taking ideas from a prototype to something that can be tested, documented, and improved.
+
+[GitHub](https://github.com/maheshraja12) · [Email](mailto:maheshrajagaridepalli954@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=maheshraja12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+### [AEGIS V3 — AI-Assisted Infrastructure Resilience](https://github.com/maheshraja12/aegis-push)
+An experimental Python project exploring incident-repair orchestration, patch checks, heuristic verification, simulated consensus, telemetry, and deployment guards.
+
+**Stack:** Python · FastAPI · Pydantic · asyncio · pytest · GitHub Actions
+
+> Experimental only. It is not a production-safe autonomous remediation system; Python process checks are not a secure sandbox.
+
+### [JARVIS Swarm — Local-First Personal Assistant](https://github.com/maheshraja12/jarvis-swarm)
+A Python assistant architecture with a FastAPI HUD, conversational agent components, voice I/O, persistent memory, and optional local/cloud model integrations.
+
+**Stack:** Python · AsyncIO · FastAPI · SQLite · REST APIs · pytest
+
+> Dynamic custom Python tools are disabled by default because imported code would run with the assistant's process privileges.
+
+### [CleanSweep — CSV Data Cleaner](https://github.com/maheshraja12/clean)
+A Flask web application for cleaning CSV datasets with duplicate removal, missing-value handling, optional IQR outlier filtering, numeric scaling, and a processing-quality report.
+
+**Stack:** Python · Flask · Pandas · NumPy · scikit-learn · pytest
+
+---
+
+## Technical Skills
+
+- **Languages:** Python, Java, JavaScript, SQL
+- **Backend & APIs:** Flask, FastAPI, REST APIs
+- **Data & ML:** Pandas, NumPy, scikit-learn, TensorFlow/Keras
+- **Web:** HTML, CSS, JavaScript
+- **Engineering tools:** Git, GitHub Actions, pytest, SQLite
+
+## What I'm Working Toward
+
+- Writing reliable, well-tested software with clear security boundaries.
+- Improving automated testing, documentation, and developer experience.
+- Building stronger backend, AI engineering, and cloud engineering skills.
+
+## GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maheshraja12&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshraja12&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building, testing, and improving.</i>
+</p>
